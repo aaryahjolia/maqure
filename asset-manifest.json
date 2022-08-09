@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/maqure/static/css/main.e108f1a3.css",
+    "main.js": "/maqure/static/js/main.bd7c1301.js",
+    "static/js/787.b890fb21.chunk.js": "/maqure/static/js/787.b890fb21.chunk.js",
+    "static/media/temp.jpg": "/maqure/static/media/temp.d64d18bfa44fd944d420.jpg",
+    "static/media/Buyers_Page_FAQ_section.png": "/maqure/static/media/Buyers_Page_FAQ_section.4c50d57843bc345fb985.png",
+    "static/media/Money_Wallet.jpg": "/maqure/static/media/Money_Wallet.48088110b516a747e385.jpg",
+    "static/media/temp_2.jpg": "/maqure/static/media/temp_2.c28c6a7fd6ff7db3b42b.jpg",
+    "static/media/Calibri.ttf": "/maqure/static/media/Calibri.29c57b05b7345f94042a.ttf",
+    "static/media/Maqure-Logo-Animation.mp4": "/maqure/static/media/Maqure-Logo-Animation.640e19f843f1e9c4261c.mp4",
+    "static/media/Money_Bag.jpg": "/maqure/static/media/Money_Bag.c4940de1077c60422091.jpg",
+    "static/media/Truck_2.jpg": "/maqure/static/media/Truck_2.a1ed6b80674e673a1719.jpg",
+    "static/media/Quality.jpg": "/maqure/static/media/Quality.3de83196a1b3a21a88d0.jpg",
+    "static/media/Home_Page_Structure_Background_Single.jpg": "/maqure/static/media/Home_Page_Structure_Background_Single.9968093958e5918efff3.jpg",
+    "static/media/Buyers_Page_Main_Image.svg": "/maqure/static/media/Buyers_Page_Main_Image.9c8b80ada88ab8f92caa.svg",
+    "static/media/user_testimonial.jpg": "/maqure/static/media/user_testimonial.a2b95c6d8345245a5b77.jpg",
+    "static/media/VisbyRoundCF-Heavy.otf": "/maqure/static/media/VisbyRoundCF-Heavy.e3f0f4eb2d02b9329b8d.otf",
+    "static/media/VisbyRoundCF-Bold.otf": "/maqure/static/media/VisbyRoundCF-Bold.d3856dc83cce2b9d5c35.otf",
+    "static/media/VisbyRoundCF-DemiBold.otf": "/maqure/static/media/VisbyRoundCF-DemiBold.ab535ed084ec676e608f.otf",
+    "static/media/Unilever_Logo.png": "/maqure/static/media/Unilever_Logo.32d9a35fde2aecd9b1f6.png",
+    "static/media/Quality_Card.png": "/maqure/static/media/Quality_Card.f18cdcf48493613f9b56.png",
+    "static/media/Financing_Card.png": "/maqure/static/media/Financing_Card.e4761b38f3e38b2fc4fe.png",
+    "static/media/Buying_Card.png": "/maqure/static/media/Buying_Card.7b1f1e38c6d7cdf290c7.png",
+    "static/media/Transparency_Card.png": "/maqure/static/media/Transparency_Card.70b45b4b601485dafeff.png",
+    "static/media/Selling_Card.png": "/maqure/static/media/Selling_Card.d552d9c7d6d8525bb425.png",
+    "index.html": "/maqure/index.html",
+    "static/media/Home_Page_Logo.svg": "/maqure/static/media/Home_Page_Logo.21f7effc5dd913c3c4009cc6317248f9.svg",
+    "main.e108f1a3.css.map": "/maqure/static/css/main.e108f1a3.css.map",
+    "main.bd7c1301.js.map": "/maqure/static/js/main.bd7c1301.js.map",
+    "787.b890fb21.chunk.js.map": "/maqure/static/js/787.b890fb21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e108f1a3.css",
+    "static/js/main.bd7c1301.js"
+  ]
+}
