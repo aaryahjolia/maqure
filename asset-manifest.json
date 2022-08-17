@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/maqure/static/css/main.c3d4971b.css",
-    "main.js": "/maqure/static/js/main.d5262ebc.js",
+    "main.css": "/maqure/static/css/main.fca31914.css",
+    "main.js": "/maqure/static/js/main.896aa1e3.js",
     "static/js/787.b890fb21.chunk.js": "/maqure/static/js/787.b890fb21.chunk.js",
     "static/media/Buyers_Page_FAQ_section.png": "/maqure/static/media/Buyers_Page_FAQ_section.4c50d57843bc345fb985.png",
     "static/media/Section_2_4_Buyers.jpg": "/maqure/static/media/Section_2_4_Buyers.48088110b516a747e385.jpg",
     "static/media/Sellers_Page_Main_Image.png": "/maqure/static/media/Sellers_Page_Main_Image.b50050601aea74a35528.png",
     "static/media/Sellers_Page_FAQ_section.png": "/maqure/static/media/Sellers_Page_FAQ_section.b35e18a94ca45692f509.png",
     "static/media/Buyers_Page_Main_Image.png": "/maqure/static/media/Buyers_Page_Main_Image.c5762dcf01df925982d5.png",
-    "static/media/Section_3_Sellers.png": "/maqure/static/media/Section_3_Sellers.ba7c8b023cef4316f9fc.png",
+    "static/media/Section_3_Sellers.png": "/maqure/static/media/Section_3_Sellers.d2210f8aa71b707febfc.png",
     "static/media/Section_3.png": "/maqure/static/media/Section_3.2198fff0858d58f9ed5d.png",
     "static/media/Maqure-Logo-Animation.mp4": "/maqure/static/media/Maqure-Logo-Animation.640e19f843f1e9c4261c.mp4",
     "static/media/Section_2_1_Buyers.jpg": "/maqure/static/media/Section_2_1_Buyers.c4940de1077c60422091.jpg",
@@ -28,12 +28,12 @@
     "static/media/Selling_Card.png": "/maqure/static/media/Selling_Card.d552d9c7d6d8525bb425.png",
     "index.html": "/maqure/index.html",
     "static/media/Home_Page_Logo.svg": "/maqure/static/media/Home_Page_Logo.21f7effc5dd913c3c4009cc6317248f9.svg",
-    "main.c3d4971b.css.map": "/maqure/static/css/main.c3d4971b.css.map",
-    "main.d5262ebc.js.map": "/maqure/static/js/main.d5262ebc.js.map",
+    "main.fca31914.css.map": "/maqure/static/css/main.fca31914.css.map",
+    "main.896aa1e3.js.map": "/maqure/static/js/main.896aa1e3.js.map",
     "787.b890fb21.chunk.js.map": "/maqure/static/js/787.b890fb21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3d4971b.css",
-    "static/js/main.d5262ebc.js"
+    "static/css/main.fca31914.css",
+    "static/js/main.896aa1e3.js"
   ]
 }
