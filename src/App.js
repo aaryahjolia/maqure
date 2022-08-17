@@ -10,8 +10,9 @@ import {
 import HomePage from './components/HomePage';
 import Buyers from './components/Buyers';
 import Sellers from './components/Sellers';
-import AboutUs from './components/AboutUs';
+// import AboutUs from './components/AboutUs';
 import ErrorPage from './components/ErrorPage';
+import GetCreditPage from './components/GetCreditPage';
 import ScrollToTop from './components/ScrollToTop';
 
 function App() {
@@ -39,7 +40,8 @@ function App() {
 
               <Route exact path="/Buyers" element={<Buyers/>}></Route>
               <Route exact path="/Sellers" element={<Sellers/>}></Route>
-              <Route exact path="/AboutUs" element={<AboutUs/>}></Route>
+              {/* <Route exact path="/AboutUs" element={<AboutUs/>}></Route> */}
+              <Route exact path="/GetCreditPage" element={<GetCreditPage/>}></Route>
 
               {/* For Error 404 Page when someone enters random url */}
               <Route path="*" element={<ErrorPage/>}></Route>
