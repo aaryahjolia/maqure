@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1906" height="690" viewBox="0 0 1906 690">
+  <defs>
+    <filter id="Polygon_5" x="1155" y="0" width="751" height="690" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10" x="1347.5" y="78.5" width="139" height="139" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_5-2" x="770" y="0" width="751" height="690" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10-2" x="962.5" y="78.5" width="139" height="139" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-4"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_5-3" x="385" y="0" width="751" height="690" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10-3" x="577.5" y="78.5" width="139" height="139" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-6"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_5-4" x="0" y="0" width="751" height="690" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10-4" x="192.5" y="78.5" width="139" height="139" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-8"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_240" data-name="Group 240" transform="translate(35 -1924.5)">
+    <g id="Component_13_1" data-name="Component 13 – 1" transform="translate(1268.5 2027)">
+      <g transform="matrix(1, 0, 0, 1, -1303.5, -102.5)" filter="url(#Polygon_5)">
+        <path id="Polygon_5-5" data-name="Polygon 5" d="M328.956,0a20,20,0,0,1,17.319,10L448.222,186.5a20,20,0,0,1,0,20.007L346.274,383a20,20,0,0,1-17.319,10H125.044a20,20,0,0,1-17.319-10L5.778,206.5a20,20,0,0,1,0-20.007L107.726,10A20,20,0,0,1,125.044,0Z" transform="translate(1303.5 145.5)" fill="#fff"/>
+      </g>
+      <g id="Group_238" data-name="Group 238" transform="translate(70.939)">
+        <g transform="matrix(1, 0, 0, 1, -1374.44, -102.5)" filter="url(#Ellipse_10)">
+          <circle id="Ellipse_10-5" data-name="Ellipse 10" cx="42.5" cy="42.5" r="42.5" transform="translate(1374.5 102.5)" fill="#00314f"/>
+        </g>
+      </g>
+      <text id="_Gureenteed_lowest_price" data-name="
+Gureenteed 
+lowest price" transform="translate(227.5 85)" fill="#40b0f6" font-size="29" font-family="VisbyRoundCF-Heavy, Visby Round CF" font-weight="800"><tspan x="0" y="0"></tspan><tspan x="-88.928" y="35">Gureenteed </tspan><tspan x="-86.84" y="70">lowest price</tspan></text>
+      <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book." data-name="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." transform="translate(108 183)" fill="#727272" font-size="20" font-family="VisbyRoundCF-Bold, Visby Round CF" font-weight="700"><tspan x="11.4" y="20">Lorem Ipsum is simply </tspan><tspan x="28.87" y="44">dummy text of the </tspan><tspan x="2.76" y="68">printing and typesetting </tspan><tspan x="11.96" y="92">industry. Lorem Ipsum </tspan><tspan x="7.66" y="116">has been the industry&apos;s </tspan><tspan x="14.15" y="140">standard dummy text </tspan><tspan x="19.31" y="164">ever since the 1500s, </tspan><tspan x="30.51" y="188">when an unknown </tspan></text>
+      <g id="Group_237" data-name="Group 237" transform="translate(-5462.267 9272.136)">
+        <path id="Icon_metro-dollar2" data-name="Icon metro-dollar2" d="M34.932,29.193a7.976,7.976,0,0,1-2.663,6A12.226,12.226,0,0,1,25.349,38.3v3.986a.657.657,0,0,1-.241.524.917.917,0,0,1-.616.2H20.879a.9.9,0,0,1-.6-.216.654.654,0,0,1-.254-.512V38.3A19.358,19.358,0,0,1,16.61,37.6a19.7,19.7,0,0,1-2.717-1.014,18.638,18.638,0,0,1-1.981-1.093,15.059,15.059,0,0,1-1.245-.854q-.335-.273-.468-.41a.619.619,0,0,1-.054-.934L12.9,30.218a.882.882,0,0,1,.616-.273.727.727,0,0,1,.642.2l.054.046a14.988,14.988,0,0,0,6.5,2.847,10.927,10.927,0,0,0,1.981.182,7.318,7.318,0,0,0,3.814-.979,3.071,3.071,0,0,0,1.646-2.779,2.06,2.06,0,0,0-.4-1.207,4.472,4.472,0,0,0-.9-.957,7.59,7.59,0,0,0-1.566-.854q-1.071-.467-1.767-.729t-2.141-.74q-1.044-.364-1.646-.569t-1.646-.6q-1.044-.4-1.673-.706t-1.512-.809a9.338,9.338,0,0,1-1.432-.968,15.255,15.255,0,0,1-1.164-1.116,5.5,5.5,0,0,1-.95-1.321,8.187,8.187,0,0,1-.562-1.515,6.78,6.78,0,0,1-.228-1.776A7.227,7.227,0,0,1,13.2,10.084a13.044,13.044,0,0,1,6.826-3.052v-4.1a.654.654,0,0,1,.254-.512.9.9,0,0,1,.6-.216h3.614a.917.917,0,0,1,.616.2.657.657,0,0,1,.241.524V6.941a17.186,17.186,0,0,1,2.958.524,19.067,19.067,0,0,1,2.329.763,13.56,13.56,0,0,1,1.7.854q.8.478,1.044.66t.4.319a.592.592,0,0,1,.134.865l-2.168,3.325a.738.738,0,0,1-.616.364.965.965,0,0,1-.723-.159q-.08-.068-.388-.273t-1.044-.6a14.706,14.706,0,0,0-1.566-.729,13.409,13.409,0,0,0-1.994-.592A10.407,10.407,0,0,0,23.128,12a7.874,7.874,0,0,0-4.149.979A2.9,2.9,0,0,0,17.373,15.5a2.417,2.417,0,0,0,1.017,2.038,11.577,11.577,0,0,0,1.057.752,10,10,0,0,0,1.5.706q1,.4,1.619.615t1.874.626q1.419.456,2.168.717t2.034.8a17.121,17.121,0,0,1,2.021.968,16.91,16.91,0,0,1,1.66,1.139,6.232,6.232,0,0,1,1.419,1.446,7.624,7.624,0,0,1,.843,1.742,6.475,6.475,0,0,1,.348,2.141Z" transform="translate(5542.293 -9252.572)" fill="#fff"/>
+        <path id="Icon_awesome-angle-double-down" data-name="Icon awesome-angle-double-down" d="M9.854,17.741.482,8.369a1.647,1.647,0,0,1,0-2.336L2.04,4.476a1.647,1.647,0,0,1,2.336,0l6.643,6.643,6.643-6.643a1.647,1.647,0,0,1,2.336,0l1.571,1.55a1.647,1.647,0,0,1,0,2.336L12.2,17.734A1.649,1.649,0,0,1,9.854,17.741ZM12.2,30.972,21.568,21.6a1.647,1.647,0,0,0,0-2.336l-1.557-1.557a1.647,1.647,0,0,0-2.336,0l-6.65,6.636L4.383,17.7a1.647,1.647,0,0,0-2.336,0L.482,19.257a1.647,1.647,0,0,0,0,2.336l9.372,9.372A1.649,1.649,0,0,0,12.2,30.972Z" transform="translate(5577.229 -9239.359)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Component_13_1-2" data-name="Component 13 – 1" transform="translate(883.5 2027)">
+      <path id="Polygon_4" data-name="Polygon 4" d="M185.548,0a20,20,0,0,1,17.319,10l54.146,93.75a20,20,0,0,1,0,20.006L202.867,217.5a20,20,0,0,1-17.319,10H77.243a20,20,0,0,1-17.319-10L5.777,123.753a20,20,0,0,1,0-20.006L59.924,10A20,20,0,0,1,77.243,0Z" transform="translate(215.604 125.75)" fill="#43b7ff"/>
+      <g transform="matrix(1, 0, 0, 1, -918.5, -102.5)" filter="url(#Polygon_5-2)">
+        <path id="Polygon_5-6" data-name="Polygon 5" d="M328.956,0a20,20,0,0,1,17.319,10L448.222,186.5a20,20,0,0,1,0,20.007L346.274,383a20,20,0,0,1-17.319,10H125.044a20,20,0,0,1-17.319-10L5.778,206.5a20,20,0,0,1,0-20.007L107.726,10A20,20,0,0,1,125.044,0Z" transform="translate(918.5 145.5)" fill="#fff"/>
+      </g>
+      <g id="Group_238-2" data-name="Group 238" transform="translate(70.939)">
+        <g transform="matrix(1, 0, 0, 1, -989.44, -102.5)" filter="url(#Ellipse_10-2)">
+          <circle id="Ellipse_10-6" data-name="Ellipse 10" cx="42.5" cy="42.5" r="42.5" transform="translate(989.5 102.5)" fill="#00314f"/>
+        </g>
+      </g>
+      <text id="Review_pricing" data-name="Review pricing" transform="translate(227 140)" fill="#40b0f6" font-size="29" font-family="VisbyRoundCF-Heavy, Visby Round CF" font-weight="800"><tspan x="-104.936" y="0">Review pricing</tspan></text>
+      <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book.-2" data-name="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." transform="translate(108 183)" fill="#727272" font-size="20" font-family="VisbyRoundCF-Bold, Visby Round CF" font-weight="700"><tspan x="11.4" y="20">Lorem Ipsum is simply </tspan><tspan x="28.87" y="44">dummy text of the </tspan><tspan x="2.76" y="68">printing and typesetting </tspan><tspan x="11.96" y="92">industry. Lorem Ipsum </tspan><tspan x="7.66" y="116">has been the industry&apos;s </tspan><tspan x="14.15" y="140">standard dummy text </tspan><tspan x="19.31" y="164">ever since the 1500s, </tspan><tspan x="30.51" y="188">when an unknown </tspan></text>
+    </g>
+    <g id="Group_239" data-name="Group 239">
+      <g id="Component_13_1-3" data-name="Component 13 – 1" transform="translate(498.5 2027)">
+        <path id="Polygon_4-2" data-name="Polygon 4" d="M185.548,0a20,20,0,0,1,17.319,10l54.146,93.75a20,20,0,0,1,0,20.006L202.867,217.5a20,20,0,0,1-17.319,10H77.243a20,20,0,0,1-17.319-10L5.777,123.753a20,20,0,0,1,0-20.006L59.924,10A20,20,0,0,1,77.243,0Z" transform="translate(215.604 125.75)" fill="#43b7ff"/>
+        <g transform="matrix(1, 0, 0, 1, -533.5, -102.5)" filter="url(#Polygon_5-3)">
+          <path id="Polygon_5-7" data-name="Polygon 5" d="M328.956,0a20,20,0,0,1,17.319,10L448.222,186.5a20,20,0,0,1,0,20.007L346.274,383a20,20,0,0,1-17.319,10H125.044a20,20,0,0,1-17.319-10L5.778,206.5a20,20,0,0,1,0-20.007L107.726,10A20,20,0,0,1,125.044,0Z" transform="translate(533.5 145.5)" fill="#fff"/>
+        </g>
+        <g id="Group_238-3" data-name="Group 238" transform="translate(70.939)">
+          <g transform="matrix(1, 0, 0, 1, -604.44, -102.5)" filter="url(#Ellipse_10-3)">
+            <circle id="Ellipse_10-7" data-name="Ellipse 10" cx="42.5" cy="42.5" r="42.5" transform="translate(604.5 102.5)" fill="#00314f"/>
+          </g>
+        </g>
+        <text id="Send_out_quote" data-name="Send out quote" transform="translate(227 140)" fill="#40b0f6" font-size="29" font-family="VisbyRoundCF-Heavy, Visby Round CF" font-weight="800"><tspan x="-109.678" y="0">Send out quote</tspan></text>
+        <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book.-3" data-name="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." transform="translate(108 183)" fill="#727272" font-size="20" font-family="VisbyRoundCF-Bold, Visby Round CF" font-weight="700"><tspan x="11.4" y="20">Lorem Ipsum is simply </tspan><tspan x="28.87" y="44">dummy text of the </tspan><tspan x="2.76" y="68">printing and typesetting </tspan><tspan x="11.96" y="92">industry. Lorem Ipsum </tspan><tspan x="7.66" y="116">has been the industry&apos;s </tspan><tspan x="14.15" y="140">standard dummy text </tspan><tspan x="19.31" y="164">ever since the 1500s, </tspan><tspan x="30.51" y="188">when an unknown </tspan></text>
+      </g>
+      <g id="Group_236" data-name="Group 236" transform="translate(-4983.104 11331)">
+        <g id="Icon_feather-user" data-name="Icon feather-user" transform="translate(5574 -9284)">
+          <path id="Path_1800" data-name="Path 1800" d="M31.053,22.5h-16.7A8.351,8.351,0,0,0,6,30.851v4.176" transform="translate(-6 2.553)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Path_1801" data-name="Path 1801" d="M28.7,12.851A8.351,8.351,0,1,1,20.351,4.5,8.351,8.351,0,0,1,28.7,12.851Z" transform="translate(-3.649 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <path id="briefcase" d="M17.957,2.912h-.623A3.883,3.883,0,0,0,13.589,0H9.707A3.883,3.883,0,0,0,5.962,2.912H5.339A5.344,5.344,0,0,0,0,8.251v9.707A5.344,5.344,0,0,0,5.339,23.3H17.957A5.345,5.345,0,0,0,23.3,17.957V8.251A5.345,5.345,0,0,0,17.957,2.912ZM5.339,5.824H17.957a2.427,2.427,0,0,1,2.427,2.427v2.427H2.912V8.251A2.427,2.427,0,0,1,5.339,5.824Zm12.619,14.56H5.339a2.427,2.427,0,0,1-2.427-2.427V13.589H9.707a1.941,1.941,0,0,0,1.941,1.941h0a1.941,1.941,0,0,0,1.941-1.941h6.795v4.368a2.427,2.427,0,0,1-2.427,2.427Z" transform="translate(5597.582 -9265.36)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Component_13_1-4" data-name="Component 13 – 1" transform="translate(113.5 2027)">
+      <path id="Polygon_4-3" data-name="Polygon 4" d="M185.548,0a20,20,0,0,1,17.319,10l54.146,93.75a20,20,0,0,1,0,20.006L202.867,217.5a20,20,0,0,1-17.319,10H77.243a20,20,0,0,1-17.319-10L5.777,123.753a20,20,0,0,1,0-20.006L59.924,10A20,20,0,0,1,77.243,0Z" transform="translate(215.604 125.75)" fill="#43b7ff"/>
+      <g transform="matrix(1, 0, 0, 1, -148.5, -102.5)" filter="url(#Polygon_5-4)">
+        <path id="Polygon_5-8" data-name="Polygon 5" d="M328.956,0a20,20,0,0,1,17.319,10L448.222,186.5a20,20,0,0,1,0,20.007L346.274,383a20,20,0,0,1-17.319,10H125.044a20,20,0,0,1-17.319-10L5.778,206.5a20,20,0,0,1,0-20.007L107.726,10A20,20,0,0,1,125.044,0Z" transform="translate(148.5 145.5)" fill="#fff"/>
+      </g>
+      <g id="Group_238-4" data-name="Group 238" transform="translate(70.939)">
+        <g transform="matrix(1, 0, 0, 1, -219.44, -102.5)" filter="url(#Ellipse_10-4)">
+          <circle id="Ellipse_10-8" data-name="Ellipse 10" cx="42.5" cy="42.5" r="42.5" transform="translate(219.5 102.5)" fill="#00314f"/>
+        </g>
+        <path id="truck-side" d="M30.869,7.5H27.457A8.138,8.138,0,0,0,19.5,1H8.123A8.133,8.133,0,0,0,0,9.123V23.746a6.5,6.5,0,0,0,4.973,6.3,5.686,5.686,0,1,0,11.21.2h6.632a5.683,5.683,0,1,0,11.306.812,5.524,5.524,0,0,0-.1-1.012,6.5,6.5,0,0,0,4.97-6.3V15.622A8.133,8.133,0,0,0,30.869,7.5Zm4.874,8.123v1.625H27.62v-6.5h3.249A4.874,4.874,0,0,1,35.743,15.622ZM3.249,23.746V9.123A4.874,4.874,0,0,1,8.123,4.249H19.5A4.874,4.874,0,0,1,24.37,9.123V27H6.5A3.249,3.249,0,0,1,3.249,23.746ZM13,31.057a2.437,2.437,0,1,1-4.874,0,2.3,2.3,0,0,1,.151-.812h4.572a2.3,2.3,0,0,1,.151.812Zm15.435,2.437A2.437,2.437,0,0,1,26,31.057a2.291,2.291,0,0,1,.151-.812h4.572a2.291,2.291,0,0,1,.151.812A2.437,2.437,0,0,1,28.432,33.494ZM32.494,27H27.62V20.5h8.123v3.249A3.249,3.249,0,0,1,32.494,27Z" transform="translate(23.249 23.854)" fill="#fff"/>
+      </g>
+      <text id="Pick_your_material" data-name="Pick your material" transform="translate(94 140)" fill="#40b0f6" font-size="29" font-family="VisbyRoundCF-Heavy, Visby Round CF" font-weight="800"><tspan x="0" y="0">Pick your material</tspan></text>
+      <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book.-4" data-name="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." transform="translate(108 183)" fill="#727272" font-size="20" font-family="VisbyRoundCF-Bold, Visby Round CF" font-weight="700"><tspan x="11.4" y="20">Lorem Ipsum is simply </tspan><tspan x="28.87" y="44">dummy text of the </tspan><tspan x="2.76" y="68">printing and typesetting </tspan><tspan x="11.96" y="92">industry. Lorem Ipsum </tspan><tspan x="7.66" y="116">has been the industry&apos;s </tspan><tspan x="14.15" y="140">standard dummy text </tspan><tspan x="19.31" y="164">ever since the 1500s, </tspan><tspan x="30.51" y="188">when an unknown </tspan></text>
+    </g>
+    <path id="file-invoice-dollar" d="M24.12,28.427V30.15a2.585,2.585,0,0,1-2.584,2.584H11.2A2.585,2.585,0,0,1,8.614,30.15V28.427A2.585,2.585,0,0,1,11.2,25.843H21.536A2.585,2.585,0,0,1,24.12,28.427Zm-9.476-11.2H11.2a2.584,2.584,0,1,0,0,5.169h3.446a2.584,2.584,0,0,0,0-5.169Zm0-8.614H11.2a2.584,2.584,0,1,0,0,5.169h3.446a2.584,2.584,0,0,0,0-5.169ZM21.536,36.18H9.476a4.313,4.313,0,0,1-4.307-4.307V9.476A4.313,4.313,0,0,1,9.476,5.169h9.476V12.06A3.445,3.445,0,0,0,22.4,15.506s9.695.019,9.8,0A2.619,2.619,0,0,0,34.326,12.5,9.392,9.392,0,0,0,31.68,7.353L27.1,2.776A9.537,9.537,0,0,0,20.4,0H9.476A9.486,9.486,0,0,0,0,9.476v22.4a9.486,9.486,0,0,0,9.476,9.476h12.06a2.584,2.584,0,0,0,0-5.169Zm19.813-2.734a6.15,6.15,0,0,0-3.885-5.739L33.37,26.07a1.011,1.011,0,0,1,.376-1.95h2.035a.856.856,0,0,1,.748.432A2.585,2.585,0,0,0,41,21.965a6.053,6.053,0,0,0-4.071-2.9,2.585,2.585,0,0,0-4.989.157,6.181,6.181,0,0,0-.491,11.65l4.094,1.637a1.011,1.011,0,0,1-.376,1.95H33.136a.858.858,0,0,1-.748-.431,2.585,2.585,0,0,0-4.476,2.588,6.051,6.051,0,0,0,4.071,2.9,2.585,2.585,0,0,0,4.989-.157,6.19,6.19,0,0,0,4.376-5.911Z" transform="translate(976.896 2048)" fill="#fff"/>
+  </g>
+</svg>
