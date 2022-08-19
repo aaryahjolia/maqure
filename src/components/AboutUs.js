@@ -3,7 +3,9 @@ import "../CSS/AboutUs.css"
 import About_Us_Page_Company_Team_Image from "../Images/user_testimonial.jpg"
 
 function AboutUs(props) {
+
     document.title = "Maqure | About Us"
+    
   return (
     <>
         <div className="about_us_page_blue_background"></div>

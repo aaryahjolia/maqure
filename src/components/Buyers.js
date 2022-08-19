@@ -2,7 +2,6 @@ import React from 'react'
 import "../CSS/Buyers.css"
 // import { Link } from 'react-router-dom'
 
-// import HomePageLogo from "../Images/Home_Page_Logo.svg"
 import FAQImage from "../Images/Buyers/Buyers_Page_FAQ_section.png"
 import FAQAccordion from './FAQAccordion'
 
@@ -33,7 +32,6 @@ function Buyers(props) {
         <h1 className="buyers_page_heading_2">At the competitive price in the market</h1>
       </div>
       <a href="/Buyers#why_buyers_prefer_maqure" className="buyers_page_heading_section_a display_none_to_desktop">Raise a Demand</a>
-      {/* <a href="/Buyers#buyers_benefits" className="buyers_page_heading_section_a display_none_to_mobile">Raise a Demand</a> */}
 
       <div className="buyers_page_section_2_main_div display_none_to_mobile">
         <div className="buyers_page_heading_section_background display_none_to_mobile">

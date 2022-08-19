@@ -36,7 +36,6 @@ function Navbar(props) {
                 if(document.getElementById("video_id").currentTime >=  parseFloat(document.getElementById("video_id").duration)/2 && (play_pause===0)){
                     document.getElementById("video_id").pause();
                     play_pause=1;
-                    // document.getElementById("navbar").style.top = "-10%";
                 }
             })
         }
@@ -45,7 +44,6 @@ function Navbar(props) {
             // console.log("scroll up hua");
             document.getElementById("video_id").playbackRate=2;
             document.getElementById("video_id").play();
-            // document.getElementById("navbar").style.top = "0%";
             document.getElementById("video_id").addEventListener("timeupdate",()=>{
                 if(document.getElementById("video_id").currentTime >= parseFloat(document.getElementById("video_id").duration) && (play_pause ===1 )){
                     document.getElementById("video_id").pause();
@@ -111,7 +109,6 @@ function Navbar(props) {
             </div>
         </div>
     </nav>
-    {/* <div className="chat_widget"><i className="fa-solid fa-comments"></i></div> */}
     <div className="chat_widget"><i className="fa-solid fa-message"></i></div>
     </>
   )

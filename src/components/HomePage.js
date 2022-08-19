@@ -27,8 +27,6 @@ function HomePage(props) {
 
   return (
     <>
-        {/* <div className="background_image"></div> */}
-        {/* <div className="background_image_line"></div> */}
         <div className="home_page_main_content">
             <h1 className="display_none_to_mobile">Solution to your end to end</h1>
             <h1 style={{color: "#39B4FF"}} className="display_none_to_mobile">Material procurement & Financing,</h1>
@@ -41,11 +39,6 @@ function HomePage(props) {
         <a href="/Buyers" className="contact_us_button display_none_to_desktop">Raise a Demand</a>
         <a className="contact_us_button display_none_to_desktop" href="/#credit_facility" onClick={handleCreditFacilityClick}>Apply for Credits</a>
         <a href="/#contact_us" className="contact_us_button home_page_contact_us_button">Contact Us</a>
-
-
-        {/* <div className="home_page_blue_background_top_horizontal"></div> */}
-
-        {/* <div className="home_page_blue_background_top display_none_to_mobile"></div> */}
 
         <div className="what_we_do_main_box" id="what_we_do_main_box" ref={WhatWeDoRef}>
         <div className="background_image display_none_to_mobile">
@@ -97,9 +90,6 @@ function HomePage(props) {
         </div>
 
         </div>
-
-        {/* <div className="home_page_blue_background"></div> */}
-        {/* <div className="home_page_blue_background_2"></div> */}
 
         <div id="credit_facility" ref={CreditFacilityRef}></div>
         <h1 className="our_partners_heading display_none_to_desktop">How to avail Credit Facility?</h1>

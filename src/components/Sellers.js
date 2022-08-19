@@ -1,6 +1,5 @@
 import React from 'react'
 import "../CSS/Sellers.css"
-// import HomePageLogo from "../Images/Home_Page_Logo.svg"
 import FAQImage from "../Images/Sellers/Sellers_Page_FAQ_section.png"
 import FAQAccordion from './FAQAccordion'
 
