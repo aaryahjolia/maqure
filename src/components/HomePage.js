@@ -1,4 +1,4 @@
-import React, {useRef} from 'react'
+import React, {useRef, useState} from 'react'
 import { Link } from 'react-router-dom'
 import "../CSS/HomePage.css"
 import "../CSS/HomePageResponsive.css"
@@ -23,6 +23,39 @@ function HomePage(props) {
     function handleCreditFacilityClick(){
         // document.getElementById("navbar_link_1").click();
         props.CreditFacilityRef.scrollIntoView();
+    }
+
+    const [companyName, setcompanyName] = useState("")
+    const [ownerName, setownerName] = useState("")
+    const [email, setemail] = useState("")
+    const [phone, setphone] = useState()
+    const [whatyoumanufacture, setwhatyoumanufacture] = useState("")
+    const [remarks, setremarks] = useState("")
+    const api_call_data = async() => {
+
+        let data={
+            companyname: companyName,
+            ownername : ownerName,
+            email : email,
+            phonenumber : phone,
+            whatyoumanufacture : whatyoumanufacture,
+            remarks : remarks
+        }
+      
+        await fetch("http://localhost:5000/", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(data),
+        })
+        .then((response) => response.json())
+        .then((data) => {
+          alert("Success:", data);
+        })
+        .catch((error) => {
+          alert("Error:", error);
+        });
     }
 
   return (
@@ -100,7 +133,7 @@ function HomePage(props) {
             <div className="our_partners_box_cards">
                 <Link to="/GetCreditPage" className="our_partners_box_cards_Link">
                     <div className="our_partners_box_card">
-                        <i class="fa-solid fa-building-columns"></i>
+                        <i className="fa-solid fa-building-columns"></i>
                         <h2>Purchase Billed Discounting</h2>
                     </div>
                 </Link>
@@ -138,21 +171,27 @@ function HomePage(props) {
             <h1>Contact Us for more Information</h1>
             <div className="contact_us_box">
                 <div className="contact_us_form_box">
-                    <form action="">
+                    <form action="POST">
                         <div className="contact_us_form_section_1 contact_us_form_section">
-                            <input type="text" placeholder="Company Name" />
-                            <input type="text" placeholder="Owner Name" />
+                            <input type="text" placeholder="Company Name" id="companyName" 
+                            onChange={(e)=>{setcompanyName(e.target.value)}} required/>
+                            <input type="text" placeholder="Owner Name" id="ownerName" 
+                            onChange={(e)=>{setownerName(e.target.value)}} required/>
                         </div>
                         <div className="contact_us_form_section_2 contact_us_form_section">
-                            <input type="email" id="" placeholder="Email" />
-                            <input type="number" id="" placeholder="Phone no."/>
+                            <input type="email" id="email" placeholder="Email" 
+                            onChange={(e)=>{setemail(e.target.value)}} required/>
+                            <input type="number" id="phone" placeholder="Phone no." 
+                            onChange={(e)=>{setphone(e.target.value)}} required/>
                         </div>
                         <div className="contact_us_form_section_3 contact_us_form_section">
-                            <input type="text" placeholder="What you manufacture?" />
-                            <input type="text" id="" placeholder="Remarks"/>
+                            <input type="text" id="whatYouManufacture" placeholder="What you manufacture?" 
+                            onChange={(e)=>{setwhatyoumanufacture(e.target.value)}} required/>
+                            <input type="text" id="remarks" placeholder="Remarks" 
+                            onChange={(e)=>{setremarks(e.target.value)}} required/>
                         </div>
                         <div className="contact_us_submit_button_div">
-                            <a href="/" className="submit_button">Submit</a>
+                            <a href="/" className="submit_button" onClick={api_call_data}>Submit</a>
                         </div>
                     </form>
                 </div>
@@ -180,7 +219,7 @@ function HomePage(props) {
                                 <i className="fa-solid fa-location-dot"></i>
                             </div>
                             <div className="contact_us_info_box_address_p_text">
-                                <a href="/">Office No. 501-502, Skylar Building, Prahladnagar, Ahmedabad - 380015 <br/><br/>Gujarat, India <i class="flag-icon flag-icon-in"></i></a>
+                                <a href="/">Office No. 501-502, Skylar Building, Prahladnagar, Ahmedabad - 380015 <br/><br/>Gujarat, India <i className="flag-icon flag-icon-in"></i></a>
                             </div>
                         </p> */}
                     </div>
